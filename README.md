@@ -3,3 +3,4 @@ Implementasi analisis similaritas item dan rekomendasi produk berbasis KNN mengg
 
 ## Dataset
 Dikarenakan batasan ukuran file di GitHub, dataset dapat diunduh melalui tautan berikut:
+https://drive.google.com/drive/folders/1ChamzuWa0yQOqQFm-rX2Dy1g5Ax1bTnv?usp=sharing
